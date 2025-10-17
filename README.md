@@ -111,12 +111,15 @@ At the bottom of the app:
 * 👎 Click **“No”** to mark it for improvement
 
 
-🚀 Future Enhancements
+Sure! Here’s your **Future Enhancements** section formatted neatly for GitHub Markdown with proper bullet points:
 
-🎯 Personalized Recommendations – Use user profiles and watch history for tailored suggestions
-🌐 Genre/Language Filter – Allow filtering movies by genre or language
-🔍 Advanced Search – Add a search bar to quickly find any movie
-💻 Responsive Design – Optimize the app layout for mobile and tablet devices
-🎬 Multiple Trailers & Clips – Show all trailers or clips for a movie
+---
 
+## 🚀 Future Enhancements
+
+* 🎯 **Personalized Recommendations** – Use user profiles and watch history for tailored suggestions
+* 🌐 **Genre/Language Filter** – Allow filtering movies by genre or language
+* 🔍 **Advanced Search** – Add a search bar to quickly find any movie
+* 💻 **Responsive Design** – Optimize the app layout for mobile and tablet devices
+* 🎬 **Multiple Trailers & Clips** – Show all trailers or clips for a movie
 
