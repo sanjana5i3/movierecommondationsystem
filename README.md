@@ -36,13 +36,15 @@ It recommends similar movies based on a selected movie and displays useful detai
 ## 🗂️ Project Structure
 
 
-📂 Movie-Recommender-System
-│
-├── 📄 app.py                     # Main Streamlit app file
-├── 📄 movies_recommond_dict.pkl  # Movie metadata (preprocessed)
-├── 📄 similarity11.pkl           # Similarity matrix
-├── 📄 requirements.txt           # Dependencies list
-└── 📄 README.md                  # Project documentation
+
+### 🧾 Explanation
+
+- **app.py** → Main Streamlit application file  
+- **movies_recommond_dict.pkl** → Pickle file storing movie titles, IDs, and metadata  
+- **similarity11.pkl** → Pickle file storing cosine similarity matrix  
+- **requirements.txt** → Python packages required to run the app  
+- **README.md** → Documentation file
+
 
 
 ## ⚙️ Installation & Setup
